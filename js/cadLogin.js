@@ -12,7 +12,7 @@ const firebaseConfig = {
 firebase.initializeApp(firebaseConfig)
 
 //Definindo a URL padrão do site
-const urlApp = 'http://127.0.0.1:5500'
+const urlApp = 'https://ericasousav.github.io/projetoCrud-gti/'
 
 // Referência para o formulário de cadastro no HTML
 const formCadastro = document.getElementById('formCadastro')
