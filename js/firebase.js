@@ -11,7 +11,7 @@ const firebaseConfig = {
 //Inicializando o Firebase
 firebase.initializeApp(firebaseConfig)
 //Definindo a URL padrão do site
-const urlApp = 'http://127.0.0.1:5500'
+const urlApp = 'https://ericasousav.github.io/projetoCrud-gti/'
 
 // Função para fazer login usando o Google
 function logaGoogle() {
